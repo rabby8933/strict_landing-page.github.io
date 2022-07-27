@@ -226,12 +226,15 @@ h1,h2,h3,h4,h5,h6{
 }
 .gallery p{
    font-size: 18px;
-   padding: 15px 0 80px;
+   padding: 15px 0 50px;
    text-align: center;
 }
 .gallery .gallery-row-1{
    margin-bottom: 0;
    padding-bottom: 0;
+}
+.gallery .col-lg-4 {
+   margin-top: 25px;
 }
 
 
